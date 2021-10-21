@@ -1,0 +1,293 @@
+{
+    "story_id": "2692403",
+    "stats": {
+        "hp": 45,
+        "morale": 27,
+        "speed": 57,
+        "skill": 35,
+        "__typename": "AxieStats"
+    },
+    "ownerProfile": {
+        "name": "Ybles",
+        "__typename": "PublicProfile"
+    },
+    "birthDate": 1627097122,
+    "figure": {
+        "image": "https://storage.googleapis.com/assets.axieinfinity.com/axies/2692403/axie/axie.png",
+        "model": "https://storage.googleapis.com/assets.axieinfinity.com/axies/2692403/axie/axie.json",
+        "atlas": "https://storage.googleapis.com/assets.axieinfinity.com/axies/2692403/axie/axie.atlas",
+        "__typename": "AxieFigure"
+    },
+    "auction": null,
+    "breedCount": 0,
+    "class": "Aquatic",
+    "name": "Axie #2692403",
+    "genes": "0100000000000000000000000000000000000110001101000110000100010010000100000100010000010001010000100001000010000100000100000000001000010000011001000010000011001000000100001100010000110001000011000001000001100100000110010000101000010000010001000001000100000100",
+    "owner": "0x684650cff944f03ca68a7aba11db7afe72fe7169",
+    "id": "2692403",
+    "__typename": "Axie",
+    "matronId": 2300571,
+    "stage": 4,
+    "sireId": 2318164,
+    "sireClass": "Aquatic",
+    "children": [],
+    "refresh_time": 1627762750482,
+    "parts": [{
+        "abilities": [],
+        "stage": 1,
+        "__typename": "AxiePart",
+        "name": "Clear",
+        "id": "eyes-clear",
+        "type": "Eyes",
+        "class": "Aquatic",
+        "specialGenes": null
+    }, {
+        "abilities": [],
+        "stage": 1,
+        "__typename": "AxiePart",
+        "name": "Bubblemaker",
+        "id": "ears-bubblemaker",
+        "type": "Ears",
+        "class": "Aquatic",
+        "specialGenes": null
+    }, {
+        "abilities": [{
+            "backgroundUrl": "https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-back-06.png",
+            "effectIconUrl": "https://storage.googleapis.com/axie-cdn/game/cards/effect-icons/speed-up.png",
+            "defense": 20,
+            "attack": 110,
+            "__typename": "AxieCardAbility",
+            "name": "Swift Escape",
+            "description": "Apply Speed+ to this Axie for 2 rounds when attacked.",
+            "id": "aquatic-back-06",
+            "energy": 1
+        }],
+        "stage": 1,
+        "__typename": "AxiePart",
+        "name": "Goldfish",
+        "id": "back-goldfish",
+        "type": "Back",
+        "class": "Aquatic",
+        "specialGenes": null
+    }, {
+        "abilities": [{
+            "backgroundUrl": "https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-mouth-08.png",
+            "effectIconUrl": "https://storage.googleapis.com/axie-cdn/game/cards/effect-icons/attack-up.png",
+            "defense": 30,
+            "attack": 110,
+            "__typename": "AxieCardAbility",
+            "name": "Fish Hook",
+            "description": "Apply Attack+ to this Axie when attacking Plant, Reptile, or Dusk targets.",
+            "id": "aquatic-mouth-08",
+            "energy": 1
+        }],
+        "stage": 1,
+        "__typename": "AxiePart",
+        "name": "Risky Fish",
+        "id": "mouth-risky-fish",
+        "type": "Mouth",
+        "class": "Aquatic",
+        "specialGenes": null
+    }, {
+        "abilities": [{
+            "backgroundUrl": "https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-horn-12.png",
+            "effectIconUrl": "https://storage.googleapis.com/axie-cdn/game/cards/effect-icons/end-last-stand.png",
+            "defense": 10,
+            "attack": 115,
+            "__typename": "AxieCardAbility",
+            "name": "Star Shuriken",
+            "description": "Target cannot enter Last Stand if this card brings its HP to zero.",
+            "id": "aquatic-horn-12",
+            "energy": 1
+        }],
+        "stage": 1,
+        "__typename": "AxiePart",
+        "name": "Shoal Star",
+        "id": "horn-shoal-star",
+        "type": "Horn",
+        "class": "Aquatic",
+        "specialGenes": null
+    }, {
+        "abilities": [{
+            "backgroundUrl": "https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-tail-04.png",
+            "effectIconUrl": "https://storage.googleapis.com/axie-cdn/game/cards/effect-icons/gain-energy.png",
+            "defense": 0,
+            "attack": 30,
+            "__typename": "AxieCardAbility",
+            "name": "Tail Slap",
+            "description": "Gain 1 energy when comboed with another card.",
+            "id": "aquatic-tail-04",
+            "energy": 0
+        }],
+        "stage": 1,
+        "__typename": "AxiePart",
+        "name": "Nimo",
+        "id": "tail-nimo",
+        "type": "Tail",
+        "class": "Aquatic",
+        "specialGenes": null
+    }],
+    "bodyShape": "Normal",
+    "level": 1,
+    "title": "",
+    "matronClass": "Aquatic",
+    "fromCache": true,
+    "traits": {
+        "cls": "aquatic",
+        "region": "global",
+        "pattern": {
+            "d": "000110",
+            "r1": "001101",
+            "r2": "000110"
+        },
+        "color": {
+            "d": "7a6767",
+            "r1": "7a6767",
+            "r2": "4cffdf"
+        },
+        "eyes": {
+            "d": {
+                "partId": "eyes-clear",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "eyes",
+                "name": "Clear"
+            },
+            "r1": {
+                "partId": "eyes-clear",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "eyes",
+                "name": "Clear"
+            },
+            "r2": {
+                "partId": "eyes-gecko",
+                "class": "reptile",
+                "specialGenes": null,
+                "type": "eyes",
+                "name": "Gecko"
+            },
+            "mystic": false
+        },
+        "mouth": {
+            "d": {
+                "partId": "mouth-risky-fish",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "mouth",
+                "name": "Risky Fish"
+            },
+            "r1": {
+                "partId": "mouth-catfish",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "mouth",
+                "name": "Catfish"
+            },
+            "r2": {
+                "partId": "mouth-nut-cracker",
+                "class": "beast",
+                "specialGenes": null,
+                "type": "mouth",
+                "name": "Nut Cracker"
+            },
+            "mystic": false
+        },
+        "ears": {
+            "d": {
+                "partId": "ears-bubblemaker",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "ears",
+                "name": "Bubblemaker"
+            },
+            "r1": {
+                "partId": "ears-inkling",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "ears",
+                "name": "Inkling"
+            },
+            "r2": {
+                "partId": "ears-sakura",
+                "class": "plant",
+                "specialGenes": null,
+                "type": "ears",
+                "name": "Sakura"
+            },
+            "mystic": false
+        },
+        "horn": {
+            "d": {
+                "partId": "horn-shoal-star",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "horn",
+                "name": "Shoal Star"
+            },
+            "r1": {
+                "partId": "horn-shoal-star",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "horn",
+                "name": "Shoal Star"
+            },
+            "r2": {
+                "partId": "horn-shoal-star",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "horn",
+                "name": "Shoal Star"
+            },
+            "mystic": false
+        },
+        "back": {
+            "d": {
+                "partId": "back-goldfish",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "back",
+                "name": "Goldfish"
+            },
+            "r1": {
+                "partId": "back-goldfish",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "back",
+                "name": "Goldfish"
+            },
+            "r2": {
+                "partId": "back-anemone",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "back",
+                "name": "Anemone"
+            },
+            "mystic": false
+        },
+        "tail": {
+            "d": {
+                "partId": "tail-nimo",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "tail",
+                "name": "Nimo"
+            },
+            "r1": {
+                "partId": "tail-nimo",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "tail",
+                "name": "Nimo"
+            },
+            "r2": {
+                "partId": "tail-nimo",
+                "class": "aquatic",
+                "specialGenes": null,
+                "type": "tail",
+                "name": "Nimo"
+            },
+            "mystic": false
+        }
+    }
+}

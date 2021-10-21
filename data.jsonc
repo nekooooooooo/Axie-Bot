@@ -1,0 +1,176 @@
+{
+    'data': {
+        'axie': {
+            'id': '2692403',
+            'image': 'https://storage.googleapis.com/assets.axieinfinity.com/axies/2692403/axie/axie-full-transparent.png',
+            'class': 'Aquatic',
+            'chain': 'ronin',
+            'name': 'SCHOLAR 13',
+            'genes': '0x40000000063461121044114210841002106420c810c4310c1064190a10441104',
+            'owner': '0x21d5e8f637269c77ec4b2a7900ceb3021b3cc47d',
+            'birthDate': 1627097122,
+            'bodyShape': 'Normal',
+            'sireId': 2318164,
+            'sireClass': 'Aquatic',
+            'matronId': 2300571,
+            'matronClass': 'Aquatic',
+            'stage': 4,
+            'title': '',
+            'breedCount': 4,
+            'level': 1,
+            'figure': {
+                'atlas': 'https://storage.googleapis.com/assets.axieinfinity.com/axies/2692403/axie/axie.atlas',
+                'model': 'https://storage.googleapis.com/assets.axieinfinity.com/axies/2692403/axie/axie.json',
+                'image': 'https://storage.googleapis.com/assets.axieinfinity.com/axies/2692403/axie/axie.png',
+                '__typename': 'AxieFigure'
+            },
+            'parts': [{
+                'id': 'eyes-clear',
+                'name': 'Clear',
+                'class': 'Aquatic',
+                'type': 'Eyes',
+                'specialGenes': None,
+                'stage': 1,
+                'abilities': [],
+                '__typename': 'AxiePart'
+            }, {
+                'id': 'ears-bubblemaker',
+                'name': 'Bubblemaker',
+                'class': 'Aquatic',
+                'type': 'Ears',
+                'specialGenes': None,
+                'stage': 1,
+                'abilities': [],
+                '__typename': 'AxiePart'
+            }, {
+                'id': 'back-goldfish',
+                'name': 'Goldfish',
+                'class': 'Aquatic',
+                'type': 'Back',
+                'specialGenes': None,
+                'stage': 1,
+                'abilities': [{
+                    'id': 'aquatic-back-06',
+                    'name': 'Swift Escape',
+                    'attack': 110,
+                    'defense': 20,
+                    'energy': 1,
+                    'description': 'Apply Speed+ to this Axie for 2 rounds when attacked.',
+                    'backgroundUrl': 'https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-back-06.png',
+                    'effectIconUrl': 'https://storage.googleapis.com/axie-cdn/game/cards/effect-icons/speed-up.png',
+                    '__typename': 'AxieCardAbility'
+                }],
+                '__typename': 'AxiePart'
+            }, {
+                'id': 'mouth-risky-fish',
+                'name': 'Risky Fish',
+                'class': 'Aquatic',
+                'type': 'Mouth',
+                'specialGenes': None,
+                'stage': 1,
+                'abilities': [{
+                    'id': 'aquatic-mouth-08',
+                    'name': 'Fish Hook',
+                    'attack': 110,
+                    'defense': 30,
+                    'energy': 1,
+                    'description': 'Apply Attack+ to this Axie when attacking Plant, Reptile, or Dusk targets.',
+                    'backgroundUrl': 'https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-mouth-08.png',
+                    'effectIconUrl': 'https://storage.googleapis.com/axie-cdn/game/cards/effect-icons/attack-up.png',
+                    '__typename': 'AxieCardAbility'
+                }],
+                '__typename': 'AxiePart'
+            }, {
+                'id': 'horn-shoal-star',
+                'name': 'Shoal Star',
+                'class': 'Aquatic',
+                'type': 'Horn',
+                'specialGenes': None,
+                'stage': 1,
+                'abilities': [{
+                    'id': 'aquatic-horn-12',
+                    'name': 'Star Shuriken',
+                    'attack': 115,
+                    'defense': 10,
+                    'energy': 1,
+                    'description': 'Target cannot enter Last Stand if this card brings its HP to zero.',
+                    'backgroundUrl': 'https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-horn-12.png',
+                    'effectIconUrl': 'https://storage.googleapis.com/axie-cdn/game/cards/effect-icons/end-last-stand.png',
+                    '__typename': 'AxieCardAbility'
+                }],
+                '__typename': 'AxiePart'
+            }, {
+                'id': 'tail-nimo',
+                'name': 'Nimo',
+                'class': 'Aquatic',
+                'type': 'Tail',
+                'specialGenes': None,
+                'stage': 1,
+                'abilities': [{
+                    'id': 'aquatic-tail-04',
+                    'name': 'Tail Slap',
+                    'attack': 30,
+                    'defense': 0,
+                    'energy': 0,
+                    'description': 'Gain 1 energy when comboed with another card.',
+                    'backgroundUrl': 'https://storage.googleapis.com/axie-cdn/game/cards/base/aquatic-tail-04.png',
+                    'effectIconUrl': 'https://storage.googleapis.com/axie-cdn/game/cards/effect-icons/gain-energy.png',
+                    '__typename': 'AxieCardAbility'
+                }],
+                '__typename': 'AxiePart'
+            }],
+            'stats': {
+                'hp': 45,
+                'speed': 57,
+                'skill': 35,
+                'morale': 27,
+                '__typename': 'AxieStats'
+            },
+            'auction': None,
+            'ownerProfile': {
+                'name': 'nekooooooooo || SSG',
+                '__typename': 'PublicProfile'
+            },
+            'battleInfo': {
+                'banned': False,
+                'banUntil': None,
+                'level': 0,
+                '__typename': 'AxieBattleInfo'
+            },
+            'children': [{
+                'id': '3165099',
+                'name': 'Axie #3165099',
+                'class': 'Aquatic',
+                'image': 'https://storage.googleapis.com/assets.axieinfinity.com/axies/3165099/axie/axie-full-transparent.png',
+                'title': '',
+                'stage': 4,
+                '__typename': 'Axie'
+            }, {
+                'id': '3165012',
+                'name': 'SCHOLAR 14',
+                'class': 'Aquatic',
+                'image': 'https://storage.googleapis.com/assets.axieinfinity.com/axies/3165012/axie/axie-full-transparent.png',
+                'title': '',
+                'stage': 4,
+                '__typename': 'Axie'
+            }, {
+                'id': '3165156',
+                'name': 'Axie #3165156',
+                'class': 'Aquatic',
+                'image': 'https://storage.googleapis.com/assets.axieinfinity.com/axies/3165156/axie/axie-full-transparent.png',
+                'title': '',
+                'stage': 4,
+                '__typename': 'Axie'
+            }, {
+                'id': '3168594',
+                'name': '5/6 Strong DPS',
+                'class': 'Aquatic',
+                'image': 'https://storage.googleapis.com/assets.axieinfinity.com/axies/3168594/axie/axie-full-transparent.png',
+                'title': '',
+                'stage': 4,
+                '__typename': 'Axie'
+            }],
+            '__typename': 'Axie'
+        }
+    }
+}

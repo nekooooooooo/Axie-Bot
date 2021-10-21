@@ -1,0 +1,1422 @@
+{
+    "Eyes": {
+        "Clear": {
+            "class": "Aquatic",
+            "emote": "<:eye_aqua:880709299280691200>"
+        },
+        "Gero": {
+            "class": "Aquatic",
+            "emote": "<:eye_aqua:880709299280691200>"
+        },
+        "Insomnia": {
+            "class": "Aquatic",
+            "emote": "<:eye_aqua:880709299280691200>"
+        },
+        "Sleepless": {
+            "class": "Aquatic",
+            "emote": "<:eye_aqua:880709299280691200>"
+        },
+        "Telescope": {
+            "class": "Aquatic",
+            "emote": "<:eye_aqua:880709299280691200>"
+        },
+        "Yen": {
+            "class": "Aquatic",
+            "emote": "<:eye_aqua:880709299280691200>"
+        },
+        "Calico Zeal": {
+            "class": "Beast",
+            "emote": "<:eye_beast:880709297581985822>"
+        },
+        "Chubby": {
+            "class": "Beast",
+            "emote": "<:eye_beast:880709297581985822>"
+        },
+        "Little Peas": {
+            "class": "Beast",
+            "emote": "<:eye_beast:880709297581985822>"
+        },
+        "Puppy": {
+            "class": "Beast",
+            "emote": "<:eye_beast:880709297581985822>"
+        },
+        "Snowflakes": {
+            "class": "Beast",
+            "emote": "<:eye_beast:880709297581985822>"
+        },
+        "Zeal": {
+            "class": "Beast",
+            "emote": "<:eye_beast:880709297581985822>"
+        },
+        "Icy Gaze": {
+            "class": "Bird",
+            "emote": "<:eye_bird:880709299444260904>"
+        },
+        "Little Owl": {
+            "class": "Bird",
+            "emote": "<:eye_bird:880709299444260904>"
+        },
+        "Lucas": {
+            "class": "Bird",
+            "emote": "<:eye_bird:880709299444260904>"
+        },
+        "Mavis": {
+            "class": "Bird",
+            "emote": "<:eye_bird:880709299444260904>"
+        },
+        "Robin": {
+            "class": "Bird",
+            "emote": "<:eye_bird:880709299444260904>"
+        },
+        "Sky Mavis": {
+            "class": "Bird",
+            "emote": "<:eye_bird:880709299444260904>"
+        },
+        "Bookworm": {
+            "class": "Bug",
+            "emote": "<:eye_bug:880709297590398996>"
+        },
+        "Broken Bookworm": {
+            "class": "Bug",
+            "emote": "<:eye_bug:880709297590398996>"
+        },
+        "Kotaro?": {
+            "class": "Bug",
+            "emote": "<:eye_bug:880709297590398996>"
+        },
+        "Neo": {
+            "class": "Bug",
+            "emote": "<:eye_bug:880709297590398996>"
+        },
+        "Nerdy": {
+            "class": "Bug",
+            "emote": "<:eye_bug:880709297590398996>"
+        },
+        "Blossom": {
+            "class": "Plant",
+            "emote": "<:eye_plant:880709297535852554>"
+        },
+        "Confused": {
+            "class": "Plant",
+            "emote": "<:eye_plant:880709297535852554>"
+        },
+        "Cucumber Slice": {
+            "class": "Plant",
+            "emote": "<:eye_plant:880709297535852554>"
+        },
+        "Dreamy Papi": {
+            "class": "Plant",
+            "emote": "<:eye_plant:880709297535852554>"
+        },
+        "Papi": {
+            "class": "Plant",
+            "emote": "<:eye_plant:880709297535852554>"
+        },
+        "Crimson Gecko": {
+            "class": "Reptile",
+            "emote": "<:eye_reptile:880709297531670548>"
+        },
+        "Dokuganryu": {
+            "class": "Reptile",
+            "emote": "<:eye_reptile:880709297531670548>"
+        },
+        "Gecko": {
+            "class": "Reptile",
+            "emote": "<:eye_reptile:880709297531670548>"
+        },
+        "Kabuki": {
+            "class": "Reptile",
+            "emote": "<:eye_reptile:880709297531670548>"
+        },
+        "Scar": {
+            "class": "Reptile",
+            "emote": "<:eye_reptile:880709297531670548>"
+        },
+        "Topaz": {
+            "class": "Reptile",
+            "emote": "<:eye_reptile:880709297531670548>"
+        },
+        "Tricky": {
+            "class": "Reptile",
+            "emote": "<:eye_reptile:880709297531670548>"
+        }
+    },
+    "Back": {
+        "Hermit": {
+            "id": "aquatic-back-02",
+            "class": "Aquatic",
+            "skillName": "Shelter",
+            "emote": "<:back_aqua:880709296726360064>"
+        },
+        "Crystal Hermit": {
+            "id": "aquatic-back-02",
+            "class": "Aquatic",
+            "skillName": "Shelter",
+            "emote": "<:back_aqua:880709296726360064>"
+        },
+        "Blue Moon": {
+            "id": "aquatic-back-04",
+            "class": "Aquatic",
+            "skillName": "Scale Dart",
+            "emote": "<:back_aqua:880709296726360064>"
+        },
+        "Goldfish": {
+            "id": "aquatic-back-06",
+            "class": "Aquatic",
+            "skillName": "Swift Escape",
+            "emote": "<:back_aqua:880709296726360064>"
+        },
+        "Sponge": {
+            "id": "aquatic-back-08",
+            "class": "Aquatic",
+            "skillName": "Shipwreck",
+            "emote": "<:back_aqua:880709296726360064>"
+        },
+        "Anemone": {
+            "id": "aquatic-back-10",
+            "class": "Aquatic",
+            "skillName": "Aqua Vitality",
+            "emote": "<:back_aqua:880709296726360064>"
+        },
+        "Perch": {
+            "id": "aquatic-back-12",
+            "class": "Aquatic",
+            "skillName": "Spinal Tap",
+            "emote": "<:back_aqua:880709296726360064>"
+        },
+        "Ronin": {
+            "id": "beast-back-02",
+            "class": "Beast",
+            "skillName": "Single Combat",
+            "emote": "<:back_beast:880709296646676500>"
+        },
+        "Hasagi": {
+            "id": "beast-back-02",
+            "class": "Beast",
+            "skillName": "Single Combat",
+            "emote": "<:back_beast:880709296646676500>"
+        },
+        "Hero": {
+            "id": "beast-back-04",
+            "class": "Beast",
+            "skillName": "Heroic Reward",
+            "emote": "<:back_beast:880709296646676500>"
+        },
+        "Jaguar": {
+            "id": "beast-back-06",
+            "class": "Beast",
+            "skillName": "Nitro Leap",
+            "emote": "<:back_beast:880709296646676500>"
+        },
+        "Risky Beast": {
+            "id": "beast-back-08",
+            "class": "Beast",
+            "skillName": "Revenge Arrow",
+            "emote": "<:back_beast:880709296646676500>"
+        },
+        "Hamaya": {
+            "id": "beast-back-08",
+            "class": "Beast",
+            "skillName": "Revenge Arrow",
+            "emote": "<:back_beast:880709296646676500>"
+        },
+        "Timber": {
+            "id": "beast-back-10",
+            "class": "Beast",
+            "skillName": "Woodman Power",
+            "emote": "<:back_beast:880709296646676500>"
+        },
+        "Furball": {
+            "id": "beast-back-12",
+            "class": "Beast",
+            "skillName": "Juggling Balls",
+            "emote": "<:back_beast:880709296646676500>"
+        },
+        "Balloon": {
+            "id": "bird-back-02",
+            "class": "Bird",
+            "skillName": "Balloon Pop",
+            "emote": "<:back_bird:880709296504066089>"
+        },
+        "Starry Balloon": {
+            "id": "bird-back-02",
+            "class": "Bird",
+            "skillName": "Balloon Pop",
+            "emote": "<:back_bird:880709296504066089>"
+        },
+        "Cupid": {
+            "id": "bird-back-04",
+            "class": "Bird",
+            "skillName": "Heart Break",
+            "emote": "<:back_bird:880709296504066089>"
+        },
+        "Origami": {
+            "id": "bird-back-04",
+            "class": "Bird",
+            "skillName": "Heart Break",
+            "emote": "<:back_bird:880709296504066089>"
+        },
+        "Raven": {
+            "id": "bird-back-06",
+            "class": "Bird",
+            "skillName": "Ill-Omened",
+            "emote": "<:back_bird:880709296504066089>"
+        },
+        "Pigeon Post": {
+            "id": "bird-back-08",
+            "class": "Bird",
+            "skillName": "Blackmail",
+            "emote": "<:back_bird:880709296504066089>"
+        },
+        "Kingfisher": {
+            "id": "bird-back-10",
+            "class": "Bird",
+            "skillName": "Patient Hunter",
+            "emote": "<:back_bird:880709296504066089>"
+        },
+        "Tri Feather": {
+            "id": "bird-back-12",
+            "class": "Bird",
+            "skillName": "Triple Threat",
+            "emote": "<:back_bird:880709296504066089>"
+        },
+        "Snail Shell": {
+            "id": "bug-back-02",
+            "class": "Bug",
+            "skillName": "Sticky Goo",
+            "emote": "<:back_bug:880709297598767165>"
+        },
+        "Starry Shell": {
+            "id": "bug-back-02",
+            "class": "Bug",
+            "skillName": "Sticky Goo",
+            "emote": "<:back_bug:880709297598767165>"
+        },
+        "Garish Worm": {
+            "id": "bug-back-04",
+            "class": "Bug",
+            "skillName": "Barb Strike",
+            "emote": "<:back_bug:880709297598767165>"
+        },
+        "Candy Canes": {
+            "id": "bug-back-04",
+            "class": "Bug",
+            "skillName": "Barb Strike",
+            "emote": "<:back_bug:880709297598767165>"
+        },
+        "Buzz Buzz": {
+            "id": "bug-back-06",
+            "class": "Bug",
+            "skillName": "Bug Noise",
+            "emote": "<:back_bug:880709297598767165>"
+        },
+        "Sandal": {
+            "id": "bug-back-08",
+            "class": "Bug",
+            "skillName": "Bug Splat",
+            "emote": "<:back_bug:880709297598767165>"
+        },
+        "Scarab": {
+            "id": "bug-back-10",
+            "class": "Bug",
+            "skillName": "Scarab Curse",
+            "emote": "<:back_bug:880709297598767165>"
+        },
+        "Spiky Wing": {
+            "id": "bug-back-12",
+            "class": "Bug",
+            "skillName": "Buzzing Wind",
+            "emote": "<:back_bug:880709297598767165>"
+        },
+        "Turnip": {
+            "id": "plant-back-02",
+            "class": "Plant",
+            "skillName": "Turnip Rocket",
+            "emote": "<:back_plant:880709297137418271>"
+        },
+        "Pink Turnip": {
+            "id": "plant-back-02",
+            "class": "Plant",
+            "skillName": "Turnip Rocket",
+            "emote": "<:back_plant:880709297137418271>"
+        },
+        "Shiitake": {
+            "id": "plant-back-04",
+            "class": "Plant",
+            "skillName": "Shroom's Grace",
+            "emote": "<:back_plant:880709297137418271>"
+        },
+        "Yakitori": {
+            "id": "plant-back-04",
+            "class": "Plant",
+            "skillName": "Shroom's Grace",
+            "emote": "<:back_plant:880709297137418271>"
+        },
+        "Bidens": {
+            "id": "plant-back-06",
+            "class": "Plant",
+            "skillName": "Cleanse Scent",
+            "emote": "<:back_plant:880709297137418271>"
+        },
+        "Watering Can": {
+            "id": "plant-back-08",
+            "class": "Plant",
+            "skillName": "Aqua Stock",
+            "emote": "<:back_plant:880709297137418271>"
+        },
+        "Mint": {
+            "id": "plant-back-10",
+            "class": "Plant",
+            "skillName": "Refresh",
+            "emote": "<:back_plant:880709297137418271>"
+        },
+        "Pumpkin": {
+            "id": "plant-back-12",
+            "class": "Plant",
+            "skillName": "October Treat",
+            "emote": "<:back_plant:880709297137418271>"
+        },
+        "Bone Sail": {
+            "id": "reptile-back-02",
+            "class": "Reptile",
+            "skillName": "Ivory Chop",
+            "emote": "<:back_reptile:880709297577795604>"
+        },
+        "Rugged Sail": {
+            "id": "reptile-back-02",
+            "class": "Reptile",
+            "skillName": "Ivory Chop",
+            "emote": "<:back_reptile:880709297577795604>"
+        },
+        "Tri Spikes": {
+            "id": "reptile-back-04",
+            "class": "Reptile",
+            "skillName": "Spike Throw",
+            "emote": "<:back_reptile:880709297577795604>"
+        },
+        "Green Thorns": {
+            "id": "reptile-back-06",
+            "class": "Reptile",
+            "skillName": "Vine Dagger",
+            "emote": "<:back_reptile:880709297577795604>"
+        },
+        "Indian Star": {
+            "id": "reptile-back-08",
+            "class": "Reptile",
+            "skillName": "Bulkwark",
+            "emote": "<:back_reptile:880709297577795604>"
+        },
+        "1ND14N-5T4R": {
+            "id": "reptile-back-08",
+            "class": "Reptile",
+            "skillName": "Bulkwark",
+            "emote": "<:back_reptile:880709297577795604>"
+        },
+        "Frozen Bucket": {
+            "id": "reptile-back-08",
+            "class": "Reptile",
+            "skillName": "Bulkwark",
+            "emote": "<:back_reptile:880709297577795604>"
+        },
+        "Red Ear": {
+            "id": "reptile-back-10",
+            "class": "Reptile",
+            "skillName": "Slippery Shield",
+            "emote": "<:back_reptile:880709297577795604>"
+        },
+        "Croc": {
+            "id": "reptile-back-12",
+            "class": "Reptile",
+            "skillName": "Nile Strike",
+            "emote": "<:back_reptile:880709297577795604>"
+        }
+    },
+    "Horn": {
+        "Babylonia": {
+            "id": "aquatic-horn-02",
+            "class": "Aquatic",
+            "skillName": "Shell Jab",
+            "emote": "<:horn_aqua:880709299633008660>"
+        },
+        "Candy Babylonia": {
+            "id": "aquatic-horn-02",
+            "class": "Aquatic",
+            "skillName": "Shell Jab",
+            "emote": "<:horn_aqua:880709299633008660>"
+        },
+        "Teal Shell": {
+            "id": "aquatic-horn-04",
+            "class": "Aquatic",
+            "skillName": "Deep Sea Gore",
+            "emote": "<:horn_aqua:880709299633008660>"
+        },
+        "Clamshell": {
+            "id": "aquatic-horn-06",
+            "class": "Aquatic",
+            "skillName": "Clam Slash",
+            "emote": "<:horn_aqua:880709299633008660>"
+        },
+        "Anemone": {
+            "id": "aquatic-horn-08",
+            "class": "Aquatic",
+            "skillName": "Aquaponics",
+            "emote": "<:horn_aqua:880709299633008660>"
+        },
+        "Oranda": {
+            "id": "aquatic-horn-10",
+            "class": "Aquatic",
+            "skillName": "Hero's Bane",
+            "emote": "<:horn_aqua:880709299633008660>"
+        },
+        "Shoal Star": {
+            "id": "aquatic-horn-12",
+            "class": "Aquatic",
+            "skillName": "Star Shuriken",
+            "emote": "<:horn_aqua:880709299633008660>"
+        },
+        "5H04L-5T4R": {
+            "id": "aquatic-horn-12",
+            "class": "Aquatic",
+            "skillName": "Star Shuriken",
+            "emote": "<:horn_aqua:880709299633008660>"
+        },
+        "Little Branch": {
+            "id": "beast-horn-02",
+            "class": "Beast",
+            "skillName": "Branch Charge",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Winter Branch": {
+            "id": "beast-horn-02",
+            "class": "Beast",
+            "skillName": "Branch Charge",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Imp": {
+            "id": "beast-horn-04",
+            "class": "Beast",
+            "skillName": "Ivory Stab",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Kendama": {
+            "id": "beast-horn-04",
+            "class": "Beast",
+            "skillName": "Ivory Stab",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Merry": {
+            "id": "beast-horn-06",
+            "class": "Beast",
+            "skillName": "Merry Legion",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Pocky": {
+            "id": "beast-horn-08",
+            "class": "Beast",
+            "skillName": "Sugar Rush",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Umaibo": {
+            "id": "beast-horn-08",
+            "class": "Beast",
+            "skillName": "Sugar Rush",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Dual Blade": {
+            "id": "beast-horn-10",
+            "class": "Beast",
+            "skillName": "Sinister Strike",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Arco": {
+            "id": "beast-horn-12",
+            "class": "Beast",
+            "skillName": "Acrobatic",
+            "emote": "<:horn_beast:880709299221979137>"
+        },
+        "Eggshell": {
+            "id": "bird-horn-02",
+            "class": "Bird",
+            "skillName": "Eggbomb",
+            "emote": "<:horn_bird:880709297619730453>"
+        },
+        "Golden Shell": {
+            "id": "bird-horn-02",
+            "class": "Bird",
+            "skillName": "Eggbomb",
+            "emote": "<:horn_bird:880709297619730453>"
+        },
+        "Cuckoo": {
+            "id": "bird-horn-04",
+            "class": "Bird",
+            "skillName": "Cockadoodledoo",
+            "emote": "<:horn_bird:880709297619730453>"
+        },
+        "Trump": {
+            "id": "bird-horn-06",
+            "class": "Bird",
+            "skillName": "Air Force One",
+            "emote": "<:horn_bird:880709297619730453>"
+        },
+        "Kestrel": {
+            "id": "bird-horn-08",
+            "class": "Bird",
+            "skillName": "Headshot",
+            "emote": "<:horn_bird:880709297619730453>"
+        },
+        "Wing Horn": {
+            "id": "bird-horn-10",
+            "class": "Bird",
+            "skillName": "Smart Shot",
+            "emote": "<:horn_bird:880709297619730453>"
+        },
+        "Feather Spear": {
+            "id": "bird-horn-12",
+            "class": "Bird",
+            "skillName": "Feather Lunge",
+            "emote": "<:horn_bird:880709297619730453>"
+        },
+        "Spruce Spear": {
+            "id": "bird-horn-12",
+            "class": "Bird",
+            "skillName": "Feather Lunge",
+            "emote": "<:horn_bird:880709297619730453>"
+        },
+        "Laggin": {
+            "id": "bug-horn-02",
+            "class": "Bug",
+            "skillName": "Mystic Rush",
+            "emote": "<:horn_bug:880709297863024670>"
+        },
+        "Laggingggggg": {
+            "id": "bug-horn-02",
+            "class": "Bug",
+            "skillName": "Mystic Rush",
+            "emote": "<:horn_bug:880709297863024670>"
+        },
+        "Antenna": {
+            "id": "bug-horn-04",
+            "class": "Bug",
+            "skillName": "Bug Signal",
+            "emote": "<:horn_bug:880709297863024670>"
+        },
+        "Caterpillars": {
+            "id": "bug-horn-06",
+            "class": "Bug",
+            "skillName": "Grub Surprise",
+            "emote": "<:horn_bug:880709297863024670>"
+        },
+        "Pliers": {
+            "id": "bug-horn-08",
+            "class": "Bug",
+            "skillName": "Dull Grip",
+            "emote": "<:horn_bug:880709297863024670>"
+        },
+        "Parasite": {
+            "id": "bug-horn-10",
+            "class": "Bug",
+            "skillName": "Third Glance",
+            "emote": "<:horn_bug:880709297863024670>"
+        },
+        "P4R451T3": {
+            "id": "bug-horn-10",
+            "class": "Bug",
+            "skillName": "Third Glance",
+            "emote": "<:horn_bug:880709297863024670>"
+        },
+        "Leaf Bug": {
+            "id": "bug-horn-12",
+            "class": "Bug",
+            "skillName": "Disguise",
+            "emote": "<:horn_bug:880709297863024670>"
+        },
+        "Bamboo Shoot": {
+            "id": "plant-horn-02",
+            "class": "Plant",
+            "skillName": "Bamboo Clan",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Golden Bamboo Shoot": {
+            "id": "plant-horn-02",
+            "class": "Plant",
+            "skillName": "Bamboo Clan",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Beech": {
+            "id": "plant-horn-04",
+            "class": "Plant",
+            "skillName": "Wooden Stab",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Yorishiro": {
+            "id": "plant-horn-04",
+            "class": "Plant",
+            "skillName": "Wooden Stab",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Rose Bud": {
+            "id": "plant-horn-06",
+            "class": "Plant",
+            "skillName": "Healing Aroma",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Strawberry Shortcake": {
+            "id": "plant-horn-08",
+            "class": "Plant",
+            "skillName": "Sweet Party",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Cactus": {
+            "id": "plant-horn-10",
+            "class": "Plant",
+            "skillName": "Prickly Trap",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Santa's Gift": {
+            "id": "plant-horn-10",
+            "class": "Plant",
+            "skillName": "Prickly Trap",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Watermelon": {
+            "id": "plant-horn-12",
+            "class": "Plant",
+            "skillName": "Seed Bullet",
+            "emote": "<:horn_plant:880709299658174484>"
+        },
+        "Unko": {
+            "id": "reptile-horn-02",
+            "class": "Reptile",
+            "skillName": "Poo Fling",
+            "emote": "<:horn_reptile:880709297380667403>"
+        },
+        "Pinku Unko": {
+            "id": "reptile-horn-02",
+            "class": "Reptile",
+            "skillName": "Poo Fling",
+            "emote": "<:horn_reptile:880709297380667403>"
+        },
+        "Scaly Spear": {
+            "id": "reptile-horn-04",
+            "class": "Reptile",
+            "skillName": "Scaly Lunge",
+            "emote": "<:horn_reptile:880709297380667403>"
+        },
+        "Cerastes": {
+            "id": "reptile-horn-06",
+            "class": "Reptile",
+            "skillName": "Surprise Invasion",
+            "emote": "<:horn_reptile:880709297380667403>"
+        },
+        "Scaly Spoon": {
+            "id": "reptile-horn-08",
+            "class": "Reptile",
+            "skillName": "Tiny Catapult",
+            "emote": "<:horn_reptile:880709297380667403>"
+        },
+        "Incisor": {
+            "id": "reptile-horn-10",
+            "class": "Reptile",
+            "skillName": "Disarm",
+            "emote": "<:horn_reptile:880709297380667403>"
+        },
+        "Bumpy": {
+            "id": "reptile-horn-12",
+            "class": "Reptile",
+            "skillName": "Overgrow Keratin",
+            "emote": "<:horn_reptile:880709297380667403>"
+        }
+    },
+    "Ears": {
+        "Bubblemaker": {
+            "class": "Aquatic",
+            "emote": "<:ear_aqua:880709297435205654>"
+        },
+        "Gill": {
+            "class": "Aquatic",
+            "emote": "<:ear_aqua:880709297435205654>"
+        },
+        "Inkling": {
+            "class": "Aquatic",
+            "emote": "<:ear_aqua:880709297435205654>"
+        },
+        "Nimo": {
+            "class": "Aquatic",
+            "emote": "<:ear_aqua:880709297435205654>"
+        },
+        "Red Nimo": {
+            "class": "Aquatic",
+            "emote": "<:ear_aqua:880709297435205654>"
+        },
+        "Seaslug": {
+            "class": "Aquatic",
+            "emote": "<:ear_aqua:880709297435205654>"
+        },
+        "Tiny Fan": {
+            "class": "Aquatic",
+            "emote": "<:ear_aqua:880709297435205654>"
+        },
+        "Belieber": {
+            "class": "Beast",
+            "emote": "<:ear_beast:880709297577816095>"
+        },
+        "Innocent Lamb": {
+            "class": "Beast",
+            "emote": "<:ear_beast:880709297577816095>"
+        },
+        "Merry Lamb": {
+            "class": "Beast",
+            "emote": "<:ear_beast:880709297577816095>"
+        },
+        "Nut Cracker": {
+            "class": "Beast",
+            "emote": "<:ear_beast:880709297577816095>"
+        },
+        "Nyan": {
+            "class": "Beast",
+            "emote": "<:ear_beast:880709297577816095>"
+        },
+        "Pointy Nyan": {
+            "class": "Beast",
+            "emote": "<:ear_beast:880709297577816095>"
+        },
+        "Puppy": {
+            "class": "Beast",
+            "emote": "<:ear_beast:880709297577816095>"
+        },
+        "Zen": {
+            "class": "Beast",
+            "emote": "<:ear_beast:880709297577816095>"
+        },
+        "Curly": {
+            "class": "Bird",
+            "emote": "<:ear_bird:880709297447796786>"
+        },
+        "Early Bird": {
+            "class": "Bird",
+            "emote": "<:ear_bird:880709297447796786>"
+        },
+        "Heart Cheek": {
+            "class": "Bird",
+            "emote": "<:ear_bird:880709297447796786>"
+        },
+        "Karimata": {
+            "class": "Bird",
+            "emote": "<:ear_bird:880709297447796786>"
+        },
+        "Owl": {
+            "class": "Bird",
+            "emote": "<:ear_bird:880709297447796786>"
+        },
+        "Peace Maker": {
+            "class": "Bird",
+            "emote": "<:ear_bird:880709297447796786>"
+        },
+        "Pink Cheek": {
+            "class": "Bird",
+            "emote": "<:ear_bird:880709297447796786>"
+        },
+        "Risky Bird": {
+            "class": "Bird",
+            "emote": "<:ear_bird:880709297447796786>"
+        },
+        "Beetle Spike": {
+            "class": "Bug",
+            "emote": "<:ear_bug:880709297594581022>"
+        },
+        "Ear Breathing": {
+            "class": "Bug",
+            "emote": "<:ear_bug:880709297594581022>"
+        },
+        "Earwing": {
+            "class": "Bug",
+            "emote": "<:ear_bug:880709297594581022>"
+        },
+        "Larva": {
+            "class": "Bug",
+            "emote": "<:ear_bug:880709297594581022>"
+        },
+        "Leaf Bug": {
+            "class": "Bug",
+            "emote": "<:ear_bug:880709297594581022>"
+        },
+        "Mon": {
+            "class": "Bug",
+            "emote": "<:ear_bug:880709297594581022>"
+        },
+        "Tassels": {
+            "class": "Bug",
+            "emote": "<:ear_bug:880709297594581022>"
+        },
+        "Vector": {
+            "class": "Bug",
+            "emote": "<:ear_bug:880709297594581022>"
+        },
+        "Clover": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "Hollow": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "Leafy": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "Lotus": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "Maiko": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "Pinecones": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "Rosa": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "Sakura": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "The Last Leaf": {
+            "class": "Plant",
+            "emote": "<:ear_plant:880709297296785429>"
+        },
+        "Curved Spine": {
+            "class": "Reptile",
+            "emote": "<:ear_reptile:880709297665892382>"
+        },
+        "Deadly Pogona": {
+            "class": "Reptile",
+            "emote": "<:ear_reptile:880709297665892382>"
+        },
+        "Friezard": {
+            "class": "Reptile",
+            "emote": "<:ear_reptile:880709297665892382>"
+        },
+        "Pogona": {
+            "class": "Reptile",
+            "emote": "<:ear_reptile:880709297665892382>"
+        },
+        "Sidebarb": {
+            "class": "Reptile",
+            "emote": "<:ear_reptile:880709297665892382>"
+        },
+        "Small Frill": {
+            "class": "Reptile",
+            "emote": "<:ear_reptile:880709297665892382>"
+        },
+        "Swirl": {
+            "class": "Reptile",
+            "emote": "<:ear_reptile:880709297665892382>"
+        }
+    },
+    "Mouth": {
+        "Lam": {
+            "id": "aquatic-mouth-02",
+            "class": "Aquatic",
+            "skillName": "Angry Lam",
+            "emote": "<:mouth_aqua:880709297686855680>"
+        },
+        "Lam Handsome": {
+            "id": "aquatic-mouth-02",
+            "class": "Aquatic",
+            "skillName": "Angry Lam",
+            "emote": "<:mouth_aqua:880709297686855680>"
+        },
+        "Catfish": {
+            "id": "aquatic-mouth-04",
+            "class": "Aquatic",
+            "skillName": "Swallow",
+            "emote": "<:mouth_aqua:880709297686855680>"
+        },
+        "Risky Fish": {
+            "id": "aquatic-mouth-08",
+            "class": "Aquatic",
+            "skillName": "Fish Hook",
+            "emote": "<:mouth_aqua:880709297686855680>"
+        },
+        "Piranha": {
+            "id": "aquatic-mouth-10",
+            "class": "Aquatic",
+            "skillName": "Crimson Water",
+            "emote": "<:mouth_aqua:880709297686855680>"
+        },
+        "Geisha": {
+            "id": "aquatic-mouth-10",
+            "class": "Aquatic",
+            "skillName": "Crimson Water",
+            "emote": "<:mouth_aqua:880709297686855680>"
+        },
+        "Nut Cracker": {
+            "id": "beast-mouth-02",
+            "class": "Beast",
+            "skillName": "Nut Crack",
+            "emote": "<:mouth_beast:880709297644900382>"
+        },
+        "Skull Cracker": {
+            "id": "beast-mouth-02",
+            "class": "Beast",
+            "skillName": "Nut Crack",
+            "emote": "<:mouth_beast:880709297644900382>"
+        },
+        "Goda": {
+            "id": "beast-mouth-04",
+            "class": "Beast",
+            "skillName": "Piercing Sound",
+            "emote": "<:mouth_beast:880709297644900382>"
+        },
+        "Axie Kiss": {
+            "id": "beast-mouth-08",
+            "class": "Beast",
+            "skillName": "Death Mark",
+            "emote": "<:mouth_beast:880709297644900382>"
+        },
+        "Confident": {
+            "id": "beast-mouth-10",
+            "class": "Beast",
+            "skillName": "Self Rally",
+            "emote": "<:mouth_beast:880709297644900382>"
+        },
+        "Doubletalk": {
+            "id": "bird-mouth-02",
+            "class": "Bird",
+            "skillName": "Soothing Song",
+            "emote": "<:mouth_bird:880709297665900544>"
+        },
+        "Mr. Doubletalk": {
+            "id": "bird-mouth-02",
+            "class": "Bird",
+            "skillName": "Soothing Song",
+            "emote": "<:mouth_bird:880709297665900544>"
+        },
+        "Peace Maker": {
+            "id": "bird-mouth-04",
+            "class": "Bird",
+            "skillName": "Peace Treaty",
+            "emote": "<:mouth_bird:880709297665900544>"
+        },
+        "Hungry Bird": {
+            "id": "bird-mouth-08",
+            "class": "Bird",
+            "skillName": "Insectivore",
+            "emote": "<:mouth_bird:880709297665900544>"
+        },
+        "Little Owl": {
+            "id": "bird-mouth-10",
+            "class": "Bird",
+            "skillName": "Dark Swoop",
+            "emote": "<:mouth_bird:880709297665900544>"
+        },
+        "Mosquito": {
+            "id": "bug-mouth-02",
+            "class": "Bug",
+            "skillName": "Blood Taste",
+            "emote": "<:mouth_bug:880709297376464937>"
+        },
+        "Feasting Mosquito": {
+            "id": "bug-mouth-02",
+            "class": "Bug",
+            "skillName": "Blood Taste",
+            "emote": "<:mouth_bug:880709297376464937>"
+        },
+        "Pincer": {
+            "id": "bug-mouth-04",
+            "class": "Bug",
+            "skillName": "Sunder Claw",
+            "emote": "<:mouth_bug:880709297376464937>"
+        },
+        "Cute Bunny": {
+            "id": "bug-mouth-08",
+            "class": "Bug",
+            "skillName": "Terror Chomp",
+            "emote": "<:mouth_bug:880709297376464937>"
+        },
+        "Kawaii": {
+            "id": "bug-mouth-08",
+            "class": "Bug",
+            "skillName": "Terror Chomp",
+            "emote": "<:mouth_bug:880709297376464937>"
+        },
+        "Square Teeth": {
+            "id": "bug-mouth-10",
+            "class": "Bug",
+            "skillName": "Mite Bite",
+            "emote": "<:mouth_bug:880709297376464937>"
+        },
+        "Serious": {
+            "id": "plant-mouth-02",
+            "class": "Plant",
+            "skillName": "Vegetal Bite",
+            "emote": "<:mouth_plant:880709297632346152>"
+        },
+        "Humorless": {
+            "id": "plant-mouth-02",
+            "class": "Plant",
+            "skillName": "Vegetal Bite",
+            "emote": "<:mouth_plant:880709297632346152>"
+        },
+        "Zigzag": {
+            "id": "plant-mouth-04",
+            "class": "Plant",
+            "skillName": "Drain Bite",
+            "emote": "<:mouth_plant:880709297632346152>"
+        },
+        "Rudolph": {
+            "id": "plant-mouth-04",
+            "class": "Plant",
+            "skillName": "Drain Bite",
+            "emote": "<:mouth_plant:880709297632346152>"
+        },
+        "Herbivore": {
+            "id": "plant-mouth-08",
+            "class": "Plant",
+            "skillName": "Vegan Diet",
+            "emote": "<:mouth_plant:880709297632346152>"
+        },
+        "Silence Whisper": {
+            "id": "plant-mouth-10",
+            "class": "Plant",
+            "skillName": "Forest Spirit",
+            "emote": "<:mouth_plant:880709297632346152>"
+        },
+        "Toothless Bite, Venom Bite": {
+            "id": "reptile-mouth-02",
+            "class": "Reptile",
+            "skillName": "Sneaky Raid",
+            "emote": "<:mouth_reptile:880709297665892382>"
+        },
+        "Toothless Bite": {
+            "id": "reptile-mouth-02",
+            "class": "Reptile",
+            "skillName": "Sneaky Raid",
+            "emote": "<:mouth_reptile:880709297665892382>"
+        },
+        "Venom Bite": {
+            "id": "reptile-mouth-02",
+            "class": "Reptile",
+            "skillName": "Sneaky Raid",
+            "emote": "<:mouth_reptile:880709297665892382>"
+        },
+        "Kotaro": {
+            "id": "reptile-mouth-04",
+            "class": "Reptile",
+            "skillName": "Kotaro Bite",
+            "emote": "<:mouth_reptile:880709297665892382>"
+        },
+        "Razor Bite": {
+            "id": "reptile-mouth-08",
+            "class": "Reptile",
+            "skillName": "Why So Serious",
+            "emote": "<:mouth_reptile:880709297665892382>"
+        },
+        "Tiny Turtle": {
+            "id": "reptile-mouth-10",
+            "class": "Reptile",
+            "skillName": "Chomp",
+            "emote": "<:mouth_reptile:880709297665892382>"
+        },
+        "Dango": {
+            "id": "reptile-mouth-10",
+            "class": "Reptile",
+            "skillName": "Chomp",
+            "emote": "<:mouth_reptile:880709297665892382>"
+        },
+        "Tiny Carrot": {
+            "id": "reptile-mouth-10",
+            "class": "Reptile",
+            "skillName": "Chomp",
+            "emote": "<:mouth_reptile:880709297665892382>"
+        }
+    },
+    "Tail": {
+        "Koi": {
+            "id": "aquatic-tail-02",
+            "class": "Aquatic",
+            "skillName": "Upstream Swim",
+            "emote": "<:tail_aqua:880709297640710154>"
+        },
+        "Koinobori": {
+            "id": "aquatic-tail-02",
+            "class": "Aquatic",
+            "skillName": "Upstream Swim",
+            "emote": "<:tail_aqua:880709297640710154>"
+        },
+        "Kuro Koi": {
+            "id": "aquatic-tail-02",
+            "class": "Aquatic",
+            "skillName": "Upstream Swim",
+            "emote": "<:tail_aqua:880709297640710154>"
+        },
+        "Nimo": {
+            "id": "aquatic-tail-04",
+            "class": "Aquatic",
+            "skillName": "Tail Slap",
+            "emote": "<:tail_aqua:880709297640710154>"
+        },
+        "Tadpole": {
+            "id": "aquatic-tail-06",
+            "class": "Aquatic",
+            "skillName": "Black Bubble",
+            "emote": "<:tail_aqua:880709297640710154>"
+        },
+        "Ranchu": {
+            "id": "aquatic-tail-08",
+            "class": "Aquatic",
+            "skillName": "Water Sphere",
+            "emote": "<:tail_aqua:880709297640710154>"
+        },
+        "Navaga": {
+            "id": "aquatic-tail-10",
+            "class": "Aquatic",
+            "skillName": "Flanking Smack",
+            "emote": "<:tail_aqua:880709297640710154>"
+        },
+        "Shrimp": {
+            "id": "aquatic-tail-12",
+            "class": "Aquatic",
+            "skillName": "Chitin Jump",
+            "emote": "<:tail_aqua:880709297640710154>"
+        },
+        "Cottontail": {
+            "id": "beast-tail-02",
+            "class": "Beast",
+            "skillName": "Luna Absorb",
+            "emote": "<:tail_beast:880709297582006282>"
+        },
+        "Sakura Cottontail": {
+            "id": "beast-tail-02",
+            "class": "Beast",
+            "skillName": "Luna Absorb",
+            "emote": "<:tail_beast:880709297582006282>"
+        },
+        "Rice": {
+            "id": "beast-tail-04",
+            "class": "Beast",
+            "skillName": "Night Steal",
+            "emote": "<:tail_beast:880709297582006282>"
+        },
+        "Shiba": {
+            "id": "beast-tail-06",
+            "class": "Beast",
+            "skillName": "Rampant Howl",
+            "emote": "<:tail_beast:880709297582006282>"
+        },
+        "Hare": {
+            "id": "beast-tail-08",
+            "class": "Beast",
+            "skillName": "Hare Dagger",
+            "emote": "<:tail_beast:880709297582006282>"
+        },
+        "Nut Cracker": {
+            "id": "beast-tail-10",
+            "class": "Beast",
+            "skillName": "Nut Throw",
+            "emote": "<:tail_beast:880709297582006282>"
+        },
+        "Gerbil": {
+            "id": "beast-tail-12",
+            "class": "Beast",
+            "skillName": "Gerbil Jump",
+            "emote": "<:tail_beast:880709297582006282>"
+        },
+        "Swallow": {
+            "id": "bird-tail-02",
+            "class": "Bird",
+            "skillName": "Early Bird",
+            "emote": "<:tail_bird:880709299712716900>"
+        },
+        "Snowy Swallow": {
+            "id": "bird-tail-02",
+            "class": "Bird",
+            "skillName": "Early Bird",
+            "emote": "<:tail_bird:880709299712716900>"
+        },
+        "Feather Fan": {
+            "id": "bird-tail-04",
+            "class": "Bird",
+            "skillName": "Sunder Armor",
+            "emote": "<:tail_bird:880709299712716900>"
+        },
+        "The Last One": {
+            "id": "bird-tail-06",
+            "class": "Bird",
+            "skillName": "Risky Feather",
+            "emote": "<:tail_bird:880709299712716900>"
+        },
+        "Cloud": {
+            "id": "bird-tail-08",
+            "class": "Bird",
+            "skillName": "Puffy Smack",
+            "emote": "<:tail_bird:880709299712716900>"
+        },
+        "Granma's Fan": {
+            "id": "bird-tail-10",
+            "class": "Bird",
+            "skillName": "Cool Breeze",
+            "emote": "<:tail_bird:880709299712716900>"
+        },
+        "Omatsuri": {
+            "id": "bird-tail-10",
+            "class": "Bird",
+            "skillName": "Cool Breeze",
+            "emote": "<:tail_bird:880709299712716900>"
+        },
+        "Post Fight": {
+            "id": "bird-tail-12",
+            "class": "Bird",
+            "skillName": "All-Out Shot",
+            "emote": "<:tail_bird:880709299712716900>"
+        },
+        "Ant": {
+            "id": "bug-tail-02",
+            "class": "Bug",
+            "skillName": "Chemical Warfare",
+            "emote": "<:tail_bug:880709297372270663>"
+        },
+        "Fire Ant": {
+            "id": "bug-tail-02",
+            "class": "Bug",
+            "skillName": "Chemical Warfare",
+            "emote": "<:tail_bug:880709297372270663>"
+        },
+        "Twin Tail": {
+            "id": "bug-tail-04",
+            "class": "Bug",
+            "skillName": "Twin Needle",
+            "emote": "<:tail_bug:880709297372270663>"
+        },
+        "Fish Snack": {
+            "id": "bug-tail-06",
+            "class": "Bug",
+            "skillName": "Anesthetic Bait",
+            "emote": "<:tail_bug:880709297372270663>"
+        },
+        "Maki": {
+            "id": "bug-tail-06",
+            "class": "Bug",
+            "skillName": "Anesthetic Bait",
+            "emote": "<:tail_bug:880709297372270663>"
+        },
+        "Gravel Ant": {
+            "id": "bug-tail-08",
+            "class": "Bug",
+            "skillName": "Numbing Lecretion",
+            "emote": "<:tail_bug:880709297372270663>"
+        },
+        "Pupae": {
+            "id": "bug-tail-10",
+            "class": "Bug",
+            "skillName": "Grub Explode",
+            "emote": "<:tail_bug:880709297372270663>"
+        },
+        "Thorny Cattepilar": {
+            "id": "bug-tail-12",
+            "class": "Bug",
+            "skillName": "Allergic Reaction",
+            "emote": "<:tail_bug:880709297372270663>"
+        },
+        "Carrot": {
+            "id": "plant-tail-02",
+            "class": "Plant",
+            "skillName": "Carrot Hammer",
+            "emote": "<:tail_plant:880709297766559764>"
+        },
+        "Namek Carrot": {
+            "id": "plant-tail-02",
+            "class": "Plant",
+            "skillName": "Carrot Hammer",
+            "emote": "<:tail_plant:880709297766559764>"
+        },
+        "Cattail": {
+            "id": "plant-tail-04",
+            "class": "Plant",
+            "skillName": "Cattail Slap",
+            "emote": "<:tail_plant:880709297766559764>"
+        },
+        "Hatsune": {
+            "id": "plant-tail-06",
+            "class": "Plant",
+            "skillName": "Leek Leak",
+            "emote": "<:tail_plant:880709297766559764>"
+        },
+        "Yam": {
+            "id": "plant-tail-08",
+            "class": "Plant",
+            "skillName": "Gas Unleash",
+            "emote": "<:tail_plant:880709297766559764>"
+        },
+        "Potato Leaf": {
+            "id": "plant-tail-10",
+            "class": "Plant",
+            "skillName": "Aqua Deflect",
+            "emote": "<:tail_plant:880709297766559764>"
+        },
+        "Hot Butt": {
+            "id": "plant-tail-12",
+            "class": "Plant",
+            "skillName": "Spicy Surprise",
+            "emote": "<:tail_plant:880709297766559764>"
+        },
+        "Wall Gecko": {
+            "id": "reptile-tail-02",
+            "class": "Reptile",
+            "skillName": "Critical Escape",
+            "emote": "<:tail_reptile:880709297770745888>"
+        },
+        "Escaped Gecko": {
+            "id": "reptile-tail-02",
+            "class": "Reptile",
+            "skillName": "Critical Escape",
+            "emote": "<:tail_reptile:880709297770745888>"
+        },
+        "Iguana": {
+            "id": "reptile-tail-04",
+            "class": "Reptile",
+            "skillName": "Scale Dart",
+            "emote": "<:tail_reptile:880709297770745888>"
+        },
+        "Tiny Dino": {
+            "id": "reptile-tail-06",
+            "class": "Reptile",
+            "skillName": "Tiny Swing",
+            "emote": "<:tail_reptile:880709297770745888>"
+        },
+        "Fir Trunk": {
+            "id": "reptile-tail-06",
+            "class": "Reptile",
+            "skillName": "Tiny Swing",
+            "emote": "<:tail_reptile:880709297770745888>"
+        },
+        "Snake Jar": {
+            "id": "reptile-tail-08",
+            "class": "Reptile",
+            "skillName": "Jar Barrage",
+            "emote": "<:tail_reptile:880709297770745888>"
+        },
+        "December Surprise": {
+            "id": "reptile-tail-08",
+            "class": "Reptile",
+            "skillName": "Jar Barrage",
+            "emote": "<:tail_reptile:880709297770745888>"
+        },
+        "Gila": {
+            "id": "reptile-tail-10",
+            "class": "Reptile",
+            "skillName": "Neuro Toxin",
+            "emote": "<:tail_reptile:880709297770745888>"
+        },
+        "Grass Snake": {
+            "id": "reptile-tail-12",
+            "class": "Reptile",
+            "skillName": "Venom Spray",
+            "emote": "<:tail_reptile:880709297770745888>"
+        }
+    }
+}
