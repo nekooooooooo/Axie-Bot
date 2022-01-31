@@ -8,6 +8,7 @@ import locale
 import config
 import json
 import textwrap
+import re
 # from selenium import webdriver
 # from BeautifulSoup import BeautifulSoup
 from datetime import datetime, timezone
@@ -389,11 +390,30 @@ energyEmote = "<:energy:880822829518585866>"
 async def on_ready():
     print(f'SaltyG Axie is running...')
 
+def findUrl(string):
+    regex = r"(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:'\".,<>?«»“”‘’]))"
+    url = re.findall(regex,string)
+    return [x[0] for x in url]
+
 @bot.event
 async def on_message(msg):
+
+    validLink = "https://marketplace.axieinfinity.com/axie/"
+    links = findUrl(msg.content)
+
     pfx = getPrefix(bot, msg)[1]
     if msg.content.lower().startswith(pfx):
         msg.content = msg.content[:len(pfx)].lower() + msg.content[len(pfx):]
+    else:
+        for link in itertools.islice(links, 0, 3):
+            if link.startswith(validLink):
+                axieId = link.split(validLink)[1]
+                axieId = axieId.replace('/', '')
+                print(axieId)
+                await axie(msg.channel, axieId)
+            else:
+                print("Invalid Link!")
+
     await bot.process_commands(msg)
 
 @bot.command(aliases=['e'])
@@ -501,6 +521,15 @@ async def axie(ctx, *axies):
         elif axieClass == 'Reptile':
             axieClass = '<:reptile:881201528571048017>' + axieClass
             embed.color = 0xef93ff
+        elif axieClass == 'Mech':
+            axieClass = '<:mech:881201528550068244>' + axieClass
+            embed.color = 0xc6bdd4
+        elif axieClass == 'Dusk':
+            axieClass = '<:dusk:881201528231313409>' + axieClass
+            embed.color = 0x129092
+        elif axieClass == 'Dawn':
+            axieClass = '<:dawn:881201528092885063>' + axieClass
+            embed.color = 0xbeceff
 
         embed.add_field(
             name = "Class",
